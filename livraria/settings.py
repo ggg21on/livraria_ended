@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "corsheaders",
     'rest_framework',
     'core',
+    "rest_framework_simplejwt",
 ]
 
 MIDDLEWARE = [
@@ -75,12 +76,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'livraria.wsgi.application'
 
-REST_FRAMEWORK = {
-    "DEFAULT_PERMISSION_CLASSES": [
-        #"rest_framework.permissions.IsAuthenticated",
-        "rest_framework.permissions.DjangoModelPermissions",
-    ],
-}
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
@@ -139,3 +134,14 @@ CORS_ALLOW_ALL_ORIGINS = True
 #STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+
+REST_FRAMEWORK = {
+    "DEFAULT_PERMISSION_CLASSES": [
+        # 'rest_framework.permissions.IsAuthenticated',
+        "rest_framework.permissions.DjangoModelPermissions",
+    ],
+    "DEFAULT_AUTHENTICATION_CLASSES": (
+        "rest_framework_simplejwt.authentication.JWTAuthentication",
+    ),
+}
