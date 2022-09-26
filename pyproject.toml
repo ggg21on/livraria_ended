@@ -5,7 +5,7 @@ description = ""
 authors = ["ggg018 <gomesgalikosky@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8.10"
 Django = "^4.1"
 djangorestframework = "^3.13.1"
 django-cors-headers = "^3.13.0"
