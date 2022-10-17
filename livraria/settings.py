@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     "media",
     'core',
     "rest_framework_simplejwt",
+    "drf_spectacular",
 
 ]
 
@@ -146,6 +147,14 @@ REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": (
         "rest_framework_simplejwt.authentication.JWTAuthentication",
     ),
+     "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
+}
+
+# DRF Spectacular settings
+SPECTACULAR_SETTINGS = {
+    "TITLE": "Livraria API",
+    "DESCRIPTION": "API para gerenciamento de livraria, incluindo endpoints e documentação.",
+    "VERSION": "1.0.0",
 }
 
 AUTH_USER_MODEL = "core.Usuario"
