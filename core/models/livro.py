@@ -1,4 +1,5 @@
 from email.policy import default
+
 from django.db import models
 
 from media.models import Image

@@ -15,6 +15,7 @@ djangorestframework-simplejwt = "^5.2.0"
 python-magic = "^0.4.27"
 Pillow = "^9.2.0"
 drf-spectacular = "^0.24.2"
+isort = "^5.10.1"
 
 [tool.poetry.dev-dependencies]
 
