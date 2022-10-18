@@ -64,6 +64,19 @@ python-versions = ">=3.7"
 Django = ">=3.2"
 
 [[package]]
+name = "django-environ"
+version = "0.9.0"
+description = "A package that allows you to utilize 12factor inspired environment variables to configure your Django application."
+category = "main"
+optional = false
+python-versions = ">=3.4,<4"
+
+[package.extras]
+testing = ["pytest (>=4.6.11)", "coverage[toml] (>=5.0a4)"]
+docs = ["sphinx-notfound-page", "sphinx (>=3.5.0)", "furo (>=2021.8.17b43,<2021.9.0)"]
+develop = ["sphinx-notfound-page", "sphinx (>=3.5.0)", "furo (>=2021.8.17b43,<2021.9.0)", "pytest (>=4.6.11)", "coverage[toml] (>=5.0a4)"]
+
+[[package]]
 name = "djangorestframework"
 version = "3.14.0"
 description = "Web APIs for Django, made easy."
@@ -301,7 +314,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "flake8 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8.10"
-content-hash = "a68aa5b6b05fe3e2d3b2118790227661f2b20fee586bfda0beaa550e011a8269"
+content-hash = "2ebe2af807b6d73d1b1cfc079d3b978fe37e299b9fca531e34763cf632293f44"
 
 [metadata.files]
 asgiref = [
@@ -329,6 +342,7 @@ attrs = []
 ]
 django = []
 django-cors-headers = []
+django-environ = []
 djangorestframework = []
 djangorestframework-simplejwt = []
 drf-spectacular = []
