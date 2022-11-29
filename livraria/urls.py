@@ -12,7 +12,7 @@ from rest_framework.routers import DefaultRouter
 from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView
 
 from core.views import AutorViewSet, CategoriaViewSet, EditoraViewSet, LivroViewSet
-from media.router import router as media_router
+from uploader.router import router as uploader_router
 
 router = DefaultRouter()
 router.register(r"autores", AutorViewSet)
@@ -29,7 +29,7 @@ urlpatterns = [
     # API DRF
     path("api/", include(router.urls)),
     # Media
-    path("api/media/", include(media_router.urls)),
+    path("api/media/", include(uploader_router.urls)),
     # OpenAPI 3
     path("api/schema/", SpectacularAPIView.as_view(), name="schema"),
     path(

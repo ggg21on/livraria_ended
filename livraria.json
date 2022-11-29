@@ -44,7 +44,7 @@
   "pk": 6,
   "fields": {
     "nome": "João Guimarães Rosa",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -60,7 +60,7 @@
   "pk": 8,
   "fields": {
     "nome": "Fiódor Dostoiévski",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -68,7 +68,7 @@
   "pk": 9,
   "fields": {
     "nome": "Oscar Wilde",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -76,7 +76,7 @@
   "pk": 10,
   "fields": {
     "nome": "Bell Hooks",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -84,7 +84,7 @@
   "pk": 11,
   "fields": {
     "nome": "Colleen Houck",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -92,7 +92,7 @@
   "pk": 12,
   "fields": {
     "nome": "Philip K. Dick",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -180,7 +180,7 @@
   "pk": 23,
   "fields": {
     "nome": "Cecily von Ziegesar",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -188,7 +188,7 @@
   "pk": 24,
   "fields": {
     "nome": "Jeff Kinney",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -212,7 +212,7 @@
   "pk": 27,
   "fields": {
     "nome": "Bernard Cornwell",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -228,7 +228,7 @@
   "pk": 29,
   "fields": {
     "nome": "Augusto Cury",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -260,7 +260,7 @@
   "pk": 34,
   "fields": {
     "nome": "Douglas Adams",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -284,7 +284,7 @@
   "pk": 37,
   "fields": {
     "nome": "George Orwell",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -292,7 +292,7 @@
   "pk": 38,
   "fields": {
     "nome": "Daniel Kraus",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -300,7 +300,7 @@
   "pk": 39,
   "fields": {
     "nome": "Edgar Allan Poe",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -324,7 +324,7 @@
   "pk": 42,
   "fields": {
     "nome": "Veronica Roth",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -364,7 +364,7 @@
   "pk": 47,
   "fields": {
     "nome": "Franz Kafka",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -380,7 +380,7 @@
   "pk": 49,
   "fields": {
     "nome": "Charlie Donlea",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -388,7 +388,7 @@
   "pk": 51,
   "fields": {
     "nome": "H. P. Lovecraft",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -396,7 +396,7 @@
   "pk": 52,
   "fields": {
     "nome": "Aldous Leonard Huxley",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -420,7 +420,7 @@
   "pk": 55,
   "fields": {
     "nome": "Antoine de Saint-Exupéry",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -428,7 +428,7 @@
   "pk": 56,
   "fields": {
     "nome": "Marco Aurélio",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -436,7 +436,7 @@
   "pk": 57,
   "fields": {
     "nome": "Hal Elrod",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -444,7 +444,7 @@
   "pk": 58,
   "fields": {
     "nome": "William Golding",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -452,7 +452,7 @@
   "pk": 59,
   "fields": {
     "nome": "Anthony Burgess",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -460,7 +460,7 @@
   "pk": 60,
   "fields": {
     "nome": "Karl Marx",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -468,7 +468,7 @@
   "pk": 61,
   "fields": {
     "nome": "Viola Davis",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -484,7 +484,7 @@
   "pk": 63,
   "fields": {
     "nome": "Dom Paulo Evaristo Arns",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -492,7 +492,7 @@
   "pk": 64,
   "fields": {
     "nome": "Deepak Chopra",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -508,7 +508,7 @@
   "pk": 66,
   "fields": {
     "nome": "Stefano Mancuso",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -524,7 +524,7 @@
   "pk": 68,
   "fields": {
     "nome": "Kahlil Gibran",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -548,7 +548,7 @@
   "pk": 72,
   "fields": {
     "nome": "Raphael Montes",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -556,7 +556,7 @@
   "pk": 73,
   "fields": {
     "nome": "Josh Goldberg",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -572,7 +572,7 @@
   "pk": 75,
   "fields": {
     "nome": "Stephen King",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -604,7 +604,7 @@
   "pk": 79,
   "fields": {
     "nome": "Joel Dicker",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -612,7 +612,7 @@
   "pk": 80,
   "fields": {
     "nome": "Casey McQuiston",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -620,7 +620,7 @@
   "pk": 81,
   "fields": {
     "nome": "Machado de Assis",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -628,7 +628,7 @@
   "pk": 82,
   "fields": {
     "nome": "Jane Austen",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -636,7 +636,7 @@
   "pk": 83,
   "fields": {
     "nome": "Euclides da Cunha",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -644,7 +644,7 @@
   "pk": 84,
   "fields": {
     "nome": "Fernando Morais",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -652,7 +652,7 @@
   "pk": 85,
   "fields": {
     "nome": "J. D. Salinger",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -660,7 +660,7 @@
   "pk": 86,
   "fields": {
     "nome": "Editora do Brasil",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -668,7 +668,7 @@
   "pk": 87,
   "fields": {
     "nome": "Ned Vizzini",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -676,7 +676,7 @@
   "pk": 89,
   "fields": {
     "nome": "Ronan Wielewski",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -692,7 +692,7 @@
   "pk": 91,
   "fields": {
     "nome": "Lygia Bojunga",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -700,7 +700,7 @@
   "pk": 93,
   "fields": {
     "nome": "Victoria Aveyard",
-    "email": "randomemail@gmail.com"
+    "email": null
   }
 },
 {
@@ -1182,14 +1182,6 @@
 },
 {
   "model": "core.editora",
-  "pk": 32,
-  "fields": {
-    "nome": "HarperCollins Brasil",
-    "site": null
-  }
-},
-{
-  "model": "core.editora",
   "pk": 33,
   "fields": {
     "nome": "Edipro",
@@ -1278,14 +1270,6 @@
 },
 {
   "model": "core.editora",
-  "pk": 45,
-  "fields": {
-    "nome": "Dark Side",
-    "site": null
-  }
-},
-{
-  "model": "core.editora",
   "pk": 46,
   "fields": {
     "nome": "L&PM",
@@ -1345,7 +1329,7 @@
   "pk": 1,
   "fields": {
     "titulo": "O Código Limpo",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 34,
     "preco": "90.00",
     "categoria": 1,
@@ -1361,7 +1345,7 @@
   "pk": 2,
   "fields": {
     "titulo": "O Codificador Limpo",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 12,
     "preco": "12.00",
     "categoria": 1,
@@ -1377,7 +1361,7 @@
   "pk": 3,
   "fields": {
     "titulo": "As Crônicas de Nárnia",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 34,
     "preco": "45.00",
     "categoria": 2,
@@ -1393,7 +1377,7 @@
   "pk": 4,
   "fields": {
     "titulo": "O Senhor dos Anéis",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 657,
     "preco": "57.00",
     "categoria": 2,
@@ -1409,7 +1393,7 @@
   "pk": 5,
   "fields": {
     "titulo": "O Hobbit",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 4,
     "preco": "45.00",
     "categoria": 2,
@@ -1425,7 +1409,7 @@
   "pk": 6,
   "fields": {
     "titulo": "Morte no Nilo",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 6,
     "preco": "67.00",
     "categoria": 3,
@@ -1441,7 +1425,7 @@
   "pk": 7,
   "fields": {
     "titulo": "Sagarana",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 30,
     "preco": "56.99",
     "categoria": 7,
@@ -1473,7 +1457,7 @@
   "pk": 9,
   "fields": {
     "titulo": "O Jogador",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 12,
     "preco": "36.99",
     "categoria": 8,
@@ -1521,7 +1505,7 @@
   "pk": 12,
   "fields": {
     "titulo": "O Retrato de Dorian Gray",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 36,
     "preco": "52.00",
     "categoria": 9,
@@ -1553,7 +1537,7 @@
   "pk": 14,
   "fields": {
     "titulo": "Anseios",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 22,
     "preco": "62.99",
     "categoria": 10,
@@ -1601,7 +1585,7 @@
   "pk": 17,
   "fields": {
     "titulo": "Androides Sonham com Ovelhas Elétricas?",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 41,
     "preco": "39.99",
     "categoria": 11,
@@ -1764,7 +1748,7 @@
   "pk": 27,
   "fields": {
     "titulo": "Assassin´s Creed: Revelações",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 43,
     "preco": "60.00",
     "categoria": 13,
@@ -1780,7 +1764,7 @@
   "pk": 28,
   "fields": {
     "titulo": "Assassin´s Creed: Renegado",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 31,
     "preco": "29.00",
     "categoria": 13,
@@ -1796,7 +1780,7 @@
   "pk": 29,
   "fields": {
     "titulo": "Assassin´s Creed: Bandeira Negra",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "38.00",
     "categoria": 13,
@@ -1830,7 +1814,7 @@
   "pk": 31,
   "fields": {
     "titulo": "Assassin's Creed: Unity",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 33,
     "preco": "35.00",
     "categoria": 13,
@@ -1846,7 +1830,7 @@
   "pk": 32,
   "fields": {
     "titulo": "Gossip Girl: você sabe que me ama",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 15,
     "preco": "29.99",
     "categoria": 14,
@@ -1862,7 +1846,7 @@
   "pk": 33,
   "fields": {
     "titulo": "Diário de um Banana",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "30.00",
     "categoria": 14,
@@ -1929,7 +1913,7 @@
   "pk": 37,
   "fields": {
     "titulo": "O Último Reino",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 30,
     "preco": "37.79",
     "categoria": 15,
@@ -1945,7 +1929,7 @@
   "pk": 38,
   "fields": {
     "titulo": "O Cavaleiro da Morte",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "33.83",
     "categoria": 15,
@@ -1961,7 +1945,7 @@
   "pk": 39,
   "fields": {
     "titulo": "Petrus Logus - O Guardião do Tempo",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "34.10",
     "categoria": 2,
@@ -1977,7 +1961,7 @@
   "pk": 40,
   "fields": {
     "titulo": "Os Senhores do Norte",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 100,
     "preco": "36.40",
     "categoria": 15,
@@ -2009,7 +1993,7 @@
   "pk": 42,
   "fields": {
     "titulo": "O Rei do Inverno (Vol. 1 As Crônicas de Artur)",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 30,
     "preco": "32.45",
     "categoria": 15,
@@ -2025,7 +2009,7 @@
   "pk": 43,
   "fields": {
     "titulo": "O Inimigo de Deus (Vol. 2 As Crônicas de Artur)",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 20,
     "preco": "40.41",
     "categoria": 15,
@@ -2041,7 +2025,7 @@
   "pk": 44,
   "fields": {
     "titulo": "Excalibur (Vol. 3 As Crônicas de Artur)",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 53,
     "preco": "37.89",
     "categoria": 15,
@@ -2073,7 +2057,7 @@
   "pk": 46,
   "fields": {
     "titulo": "Blade Runner: Androides Sonham com Ovelhas Elétricas?",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 500,
     "preco": "28.95",
     "categoria": 11,
@@ -2089,7 +2073,7 @@
   "pk": 47,
   "fields": {
     "titulo": "O Guia Definitivo do Mochileiro das Galáxias",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 42,
     "preco": "60.90",
     "categoria": 11,
@@ -2201,7 +2185,7 @@
   "pk": 54,
   "fields": {
     "titulo": "A Forma da Água",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "22.45",
     "categoria": 2,
@@ -2345,7 +2329,7 @@
   "pk": 63,
   "fields": {
     "titulo": "Divergente",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 4,
     "preco": "25.00",
     "categoria": 19,
@@ -2441,7 +2425,7 @@
   "pk": 69,
   "fields": {
     "titulo": "Insurgente",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "28.07",
     "categoria": 19,
@@ -2489,7 +2473,7 @@
   "pk": 72,
   "fields": {
     "titulo": "Convergente",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "24.51",
     "categoria": 19,
@@ -2617,7 +2601,7 @@
   "pk": 80,
   "fields": {
     "titulo": "A Garota do Lago",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 2,
     "preco": "29.41",
     "categoria": 14,
@@ -2761,11 +2745,11 @@
   "pk": 89,
   "fields": {
     "titulo": "O Pequeno Príncipe",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 8,
     "preco": "17.39",
     "categoria": 24,
-    "editora": 32,
+    "editora": 10,
     "capa": null,
     "autores": [
       55
@@ -2921,7 +2905,7 @@
   "pk": 99,
   "fields": {
     "titulo": "O Milagre da Manhã",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "39.30",
     "categoria": 25,
@@ -3001,7 +2985,7 @@
   "pk": 104,
   "fields": {
     "titulo": "Em Busca de Mim",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "39.30",
     "categoria": 21,
@@ -3049,7 +3033,7 @@
   "pk": 107,
   "fields": {
     "titulo": "As Sete Leis Espirituais do Sucesso",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "27.50",
     "categoria": 25,
@@ -3097,7 +3081,7 @@
   "pk": 110,
   "fields": {
     "titulo": "A Incrível Viagem das Plantas",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "44.50",
     "categoria": 13,
@@ -3129,7 +3113,7 @@
   "pk": 112,
   "fields": {
     "titulo": "O Pequeno Livro do Amor",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "31.92",
     "categoria": 25,
@@ -3193,7 +3177,7 @@
   "pk": 116,
   "fields": {
     "titulo": "Pessoas Normais",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 5,
     "preco": "29.90",
     "categoria": 31,
@@ -3225,7 +3209,7 @@
   "pk": 118,
   "fields": {
     "titulo": "O Vilarejo",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 10,
     "preco": "25.99",
     "categoria": 30,
@@ -3289,7 +3273,7 @@
   "pk": 123,
   "fields": {
     "titulo": "Sombra e Ossos",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 15,
     "preco": "39.90",
     "categoria": 2,
@@ -3305,7 +3289,7 @@
   "pk": 124,
   "fields": {
     "titulo": "Sol e Tormenta",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 2,
     "preco": "35.35",
     "categoria": 2,
@@ -3337,7 +3321,7 @@
   "pk": 126,
   "fields": {
     "titulo": "Ruína e Ascensão",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 3,
     "preco": "32.90",
     "categoria": 2,
@@ -3385,7 +3369,7 @@
   "pk": 129,
   "fields": {
     "titulo": "O Caso Alaska Sanders",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 18,
     "preco": "55.90",
     "categoria": 30,
@@ -3433,7 +3417,7 @@
   "pk": 132,
   "fields": {
     "titulo": "Orgulho e Preconceito",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 68,
     "preco": "57.00",
     "categoria": 32,
@@ -3545,7 +3529,7 @@
   "pk": 139,
   "fields": {
     "titulo": "Apanhador no Campo de Centeio",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 1,
     "preco": "38.95",
     "categoria": 32,
@@ -3561,7 +3545,7 @@
   "pk": 140,
   "fields": {
     "titulo": "Uma História Meio que Engraçada",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 98,
     "preco": "32.90",
     "categoria": 36,
@@ -3593,7 +3577,7 @@
   "pk": 142,
   "fields": {
     "titulo": "Manifesto Comunista",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 13,
     "preco": "0.00",
     "categoria": 35,
@@ -3609,7 +3593,7 @@
   "pk": 144,
   "fields": {
     "titulo": "O Abraço",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 20,
     "preco": "19.90",
     "categoria": 38,
@@ -3625,7 +3609,7 @@
   "pk": 145,
   "fields": {
     "titulo": "Sapato de Salto",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 30,
     "preco": "19.90",
     "categoria": 38,
@@ -3641,7 +3625,7 @@
   "pk": 146,
   "fields": {
     "titulo": "A Casa da Madrinha",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 20,
     "preco": "29.90",
     "categoria": 38,
@@ -3657,7 +3641,7 @@
   "pk": 147,
   "fields": {
     "titulo": "Tchau",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 20,
     "preco": "20.00",
     "categoria": 38,
@@ -3673,7 +3657,7 @@
   "pk": 149,
   "fields": {
     "titulo": "A Rainha Vermelha",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 10,
     "preco": "40.00",
     "categoria": 2,
@@ -3689,7 +3673,7 @@
   "pk": 150,
   "fields": {
     "titulo": "A Bolsa Amarela",
-    "isbn": 123456789,
+    "isbn": null,
     "quantidade": 30,
     "preco": "10.00",
     "categoria": 38,
@@ -3705,7 +3689,7 @@
   "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$390000$ho8E4gMoGI5ZLcdzrNbDrx$Sv5olhGNiaf5DQZyIObHVulv0C4hzuLKYSDB38QvXVY=",
-    "last_login": "2022-10-10T12:18:47Z",
+    "last_login": "2022-10-17T12:26:26.936Z",
     "is_superuser": true,
     "username": "marco",
     "first_name": "",
@@ -3743,7 +3727,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 1,
   "fields": {
     "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
@@ -3754,7 +3738,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 2,
   "fields": {
     "attachment_key": "71312fbc-7446-4763-83d5-cfa8feb940af",
@@ -3765,7 +3749,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 3,
   "fields": {
     "attachment_key": "e17599f7-bb32-4a7d-9346-06fb3c7e707d",
@@ -3776,7 +3760,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 4,
   "fields": {
     "attachment_key": "eabee81f-5293-49a1-9121-f0b66ca7c870",
@@ -3787,7 +3771,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 5,
   "fields": {
     "attachment_key": "04730722-1c75-4c19-8aa6-ba11b283ac30",
@@ -3798,7 +3782,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 6,
   "fields": {
     "attachment_key": "acbcd6da-9788-4f7a-a8c4-928d49c08bda",
@@ -3809,7 +3793,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 7,
   "fields": {
     "attachment_key": "2aaac910-d5d5-4c93-a845-43fcfcc29bde",
@@ -3820,7 +3804,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 8,
   "fields": {
     "attachment_key": "e0227aa0-257e-41d6-8fce-8fc26a582b70",
@@ -3831,7 +3815,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 9,
   "fields": {
     "attachment_key": "879a7ccd-8b1d-4304-8d40-34cfffb8d54e",
@@ -3842,7 +3826,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 10,
   "fields": {
     "attachment_key": "60f2500b-41c6-44b4-a8cd-2e764f06a2d7",
@@ -3853,7 +3837,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 11,
   "fields": {
     "attachment_key": "1598de8b-65bb-4755-a91c-a7535ee6b73e",
@@ -3864,7 +3848,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 12,
   "fields": {
     "attachment_key": "219ca135-1f2e-48b4-98a6-7e049079c8cc",
@@ -3875,7 +3859,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 13,
   "fields": {
     "attachment_key": "a2a21bdc-0f58-406b-b263-eb4912a2fdee",
@@ -3886,7 +3870,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 14,
   "fields": {
     "attachment_key": "ace1454a-c18c-4dea-a41b-94170fe55fd9",
@@ -3897,7 +3881,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 15,
   "fields": {
     "attachment_key": "aafd8dc1-6d3c-474f-b9d3-f8954a99fc15",
@@ -3908,7 +3892,7 @@
   }
 },
 {
-  "model": "media.image",
+  "model": "uploader.image",
   "pk": 16,
   "fields": {
     "attachment_key": "1aa915e9-61d1-4899-93d1-a049549d1173",
