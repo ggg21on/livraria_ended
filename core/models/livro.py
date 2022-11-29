@@ -11,7 +11,7 @@ from .editora import Editora
 
 class Livro(models.Model):
     titulo = models.CharField(max_length=255)
-    isbn = models.CharField(max_length=32)
+    isbn = models.CharField(max_length=32, null=True, blank=True)
     quantidade = models.IntegerField()
     preco = models.DecimalField(max_digits=7, decimal_places=2)
     categoria = models.ForeignKey(
